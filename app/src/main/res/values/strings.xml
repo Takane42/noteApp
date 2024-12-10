@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">zzzNote App</string>
+    <string name="floatingButton">Add Todo List</string>
+    <string name="placeholder_title">Title</string>
+    <string name="placeholder_date">Date</string>
+    <string name="placeholder_desc">Description</string>
+    <string name="floatingButtonDelete">Delete Note Button</string>
+</resources>
